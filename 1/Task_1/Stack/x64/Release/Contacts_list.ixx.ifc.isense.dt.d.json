@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\1\\task_1\\stack\\contacts_list.ixx",
+        "ProvidedModule": "Contacts_list",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\iostream_2E4F27E8DC36DE8A.ifc.dt"
+            }
+        ]
+    }
+}

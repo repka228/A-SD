@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\1\\task_1\\stack\\contact.cppm",
+        "ProvidedModule": "Contact",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\string",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\string_8221F23322199973.ifc.dt"
+            }
+        ]
+    }
+}

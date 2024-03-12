@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Contacts_list.cppm.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\Contacts_list.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Contacts_list",
+                    "source-path": "d:\\semestres\\2_semestr\\aap\\labs\\1\\task_1\\stack\\contacts_list.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Contact"
+                },
+                {
+                    "logical-name": "IContacts"
+                },
+                {
+                    "logical-name": "iostream",
+                    "source-path": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

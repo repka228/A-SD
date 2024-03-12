@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack\\knapsack_greedy.cppm",
+        "ProvidedModule": "Knapsack",
+        "ImportedModules": [
+            "ItemsHeap",
+            "Item"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack\\itemsheap.cppm",
+        "ProvidedModule": "ItemsHeap",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Item",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\Item.cppm.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\vector",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\vector_6508F8956CABB1B1.ifc.dt"
+            },
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\iostream_2E4F27E8DC36DE8A.ifc.dt"
+            },
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\string",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\string_8221F23322199973.ifc.dt"
+            }
+        ]
+    }
+}

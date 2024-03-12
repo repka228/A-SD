@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Item_dynamic.cppm.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\Item_dynamic.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Item_dynamic",
+                    "source-path": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack_dynamic\\item_dynamic.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "string",
+                    "source-path": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "iostream",
+                    "source-path": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

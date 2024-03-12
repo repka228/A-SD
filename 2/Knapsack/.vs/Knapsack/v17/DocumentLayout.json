@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\Main_dynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|solutionrelative:Knapsack\\Main_dynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\Knapsack_dynamic.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|solutionrelative:Knapsack_dynamic\\Knapsack_dynamic.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\ItemsHeap_dynamic.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|solutionrelative:Knapsack_dynamic\\ItemsHeap_dynamic.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\Item_dynamic.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71C8B6C1-4DD6-4500-88C3-E38AD63C074D}|Knapsack_dynamic\\Knapsack_dynamic.vcxproj|solutionrelative:Knapsack_dynamic\\Item_dynamic.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_dynamic.cpp",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\Main_dynamic.cpp",
+              "RelativeDocumentMoniker": "Knapsack\\Main_dynamic.cpp",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\Main_dynamic.cpp",
+              "RelativeToolTip": "Knapsack\\Main_dynamic.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T10:47:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Knapsack_dynamic.cppm",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\Knapsack_dynamic.cppm",
+              "RelativeDocumentMoniker": "Knapsack_dynamic\\Knapsack_dynamic.cppm",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\Knapsack_dynamic.cppm",
+              "RelativeToolTip": "Knapsack_dynamic\\Knapsack_dynamic.cppm",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwE8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-03-11T10:47:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsHeap_dynamic.cppm",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\ItemsHeap_dynamic.cppm",
+              "RelativeDocumentMoniker": "Knapsack_dynamic\\ItemsHeap_dynamic.cppm",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\ItemsHeap_dynamic.cppm",
+              "RelativeToolTip": "Knapsack_dynamic\\ItemsHeap_dynamic.cppm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-03-11T10:47:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item_dynamic.cppm",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\Item_dynamic.cppm",
+              "RelativeDocumentMoniker": "Knapsack_dynamic\\Item_dynamic.cppm",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\Item_dynamic.cppm",
+              "RelativeToolTip": "Knapsack_dynamic\\Item_dynamic.cppm",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-03-11T10:47:41.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

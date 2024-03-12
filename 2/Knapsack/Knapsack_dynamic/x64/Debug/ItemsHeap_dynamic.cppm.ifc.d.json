@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack_dynamic\\itemsheap_dynamic.cppm",
+        "ProvidedModule": "ItemsHeap_dynamic",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Item_dynamic",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\Item_dynamic.cppm.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\vector",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\vector_G23TPVYAIQQE5E3P.ifc"
+            },
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\iostream_9QJMK7PGVR52W0L2.ifc"
+            },
+            {
+                "Header": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\string",
+                "BMI": "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\string_8021WZ49ORCV7HGG.ifc"
+            }
+        ]
+    }
+}

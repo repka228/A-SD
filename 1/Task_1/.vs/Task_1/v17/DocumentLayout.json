@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7583F42B-FBB4-429F-A8DB-081CD0A6286A}|sort_choice\\sort_choice.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\sort_choice\\Sort_choice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7583F42B-FBB4-429F-A8DB-081CD0A6286A}|sort_choice\\sort_choice.vcxproj|solutionrelative:sort_choice\\Sort_choice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Contacts_list.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Contacts_list.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\IContacts.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|solutionrelative:Stack\\IContacts.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Contact.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A898FE71-718F-4386-8F12-ADFB7BF3B193}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Contact.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort_choice.cpp",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\sort_choice\\Sort_choice.cpp",
+              "RelativeDocumentMoniker": "sort_choice\\Sort_choice.cpp",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\sort_choice\\Sort_choice.cpp",
+              "RelativeToolTip": "sort_choice\\Sort_choice.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T06:36:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Main.cpp",
+              "RelativeDocumentMoniker": "Stack\\Main.cpp",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Main.cpp",
+              "RelativeToolTip": "Stack\\Main.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T12:06:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacts_list.cppm",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Contacts_list.cppm",
+              "RelativeDocumentMoniker": "Stack\\Contacts_list.cppm",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Contacts_list.cppm",
+              "RelativeToolTip": "Stack\\Contacts_list.cppm",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwFoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-03-06T12:06:19.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cppm",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Contact.cppm",
+              "RelativeDocumentMoniker": "Stack\\Contact.cppm",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\Contact.cppm",
+              "RelativeToolTip": "Stack\\Contact.cppm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-03-06T12:06:18.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContacts.cppm",
+              "DocumentMoniker": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\IContacts.cppm",
+              "RelativeDocumentMoniker": "Stack\\IContacts.cppm",
+              "ToolTip": "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\IContacts.cppm",
+              "RelativeToolTip": "Stack\\IContacts.cppm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-03-06T12:06:19.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

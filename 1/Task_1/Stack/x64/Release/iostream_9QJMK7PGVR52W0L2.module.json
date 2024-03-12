@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\iostream_9QJMK7PGVR52W0L2.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\iostream_9QJMK7PGVR52W0L2.module.json",
+                "x64\\Release\\iostream_9QJMK7PGVR52W0L2.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream",
+                    "source-path": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

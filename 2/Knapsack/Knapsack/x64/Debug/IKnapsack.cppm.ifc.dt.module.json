@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack\\iknapsack.cppm",
+        "ProvidedModule": "IKnapsack",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

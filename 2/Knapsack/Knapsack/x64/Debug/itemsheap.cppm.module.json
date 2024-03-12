@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ItemsHeap.cppm.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\ItemsHeap.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ItemsHeap",
+                    "source-path": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack\\itemsheap.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Item"
+                },
+                {
+                    "logical-name": "vector",
+                    "source-path": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

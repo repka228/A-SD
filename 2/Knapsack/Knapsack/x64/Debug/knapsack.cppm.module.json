@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Knapsack.cppm.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\Knapsack.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Knapsack",
+                    "source-path": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack\\knapsack.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "ItemsHeap"
+                },
+                {
+                    "logical-name": "Item"
+                }
+            ]
+        }
+    ]
+}

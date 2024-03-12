@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Test.ixx.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\1\\Task_1\\Stack\\x64\\Release\\Test.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Test",
+                    "source-path": "d:\\semestres\\2_semestr\\aap\\labs\\1\\task_1\\stack\\test.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

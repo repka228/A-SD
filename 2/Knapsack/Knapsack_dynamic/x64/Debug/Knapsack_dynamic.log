@@ -1,0 +1,7 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  Knapsack_dynamic.cppm
+  Компиляция…
+  Knapsack_dynamic.cppm
+  Main_dynamic.cpp
+D:\Semestres\2_semestr\AAP\Labs\2\Knapsack\Knapsack\Main_dynamic.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Knapsack_dynamic.vcxproj -> D:\Semestres\2_semestr\AAP\Labs\2\Knapsack\x64\Debug\Knapsack_dynamic.exe

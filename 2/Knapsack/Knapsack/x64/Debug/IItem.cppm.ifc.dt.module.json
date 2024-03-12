@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\2\\knapsack\\knapsack\\iitem.cppm",
+        "ProvidedModule": "IItem",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\string"
+        ]
+    }
+}

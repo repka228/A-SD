@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\string_8021WZ49ORCV7HGG.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\string_8021WZ49ORCV7HGG.module.json",
+                "x64\\Debug\\string_8021WZ49ORCV7HGG.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+                    "source-path": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\string",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

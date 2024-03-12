@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\vector_G23TPVYAIQQE5E3P.obj",
+            "outputs": [
+                "D:\\Semestres\\2_semestr\\AAP\\Labs\\2\\Knapsack\\Knapsack_dynamic\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\vector_G23TPVYAIQQE5E3P.module.json",
+                "x64\\Debug\\vector_G23TPVYAIQQE5E3P.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+                    "source-path": "d:\\software\\visual\\main\\vc\\tools\\msvc\\14.39.33519\\include\\vector",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

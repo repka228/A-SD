@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\semestres\\2_semestr\\aap\\labs\\1\\task_1\\stack\\contacts_list.cppm",
+        "ProvidedModule": "Contacts_list",
+        "ImportedModules": [
+            "Contact",
+            "IContacts"
+        ],
+        "ImportedHeaderUnits": [
+            "D:\\software\\Visual\\main\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream"
+        ]
+    }
+}
